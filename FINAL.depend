@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1528189025 source:/home/doohan/Kuliah/Algoritma dan Pemrograman/FINAL/fungsi.c
+	"header.h"
+
+1528189468 /home/doohan/Kuliah/Algoritma dan Pemrograman/FINAL/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1528189468 source:/home/doohan/Kuliah/Algoritma dan Pemrograman/FINAL/main.c
+	"header.h"
+
+1528189468 source:g:\@@@@@@kuliah\semester 2\alpro\final\main.c
+	"header.h"
+
+1528276379 g:\@@@@@@kuliah\semester 2\alpro\final\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1528276301 source:g:\@@@@@@kuliah\semester 2\alpro\final\fungsi.c
+	"header.h"
+
